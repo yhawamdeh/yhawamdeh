@@ -23,8 +23,6 @@
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhawamdeh&langs_count=8&card_width=1000&theme=tokyonight)](https://github.com/yhawamdeh)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yhawamdeh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yhawamdeh&theme=tokyonight&row=2&column=3)](https://github.com/yhawamdeh/github-profile-trophy)
-### Watch my contribution graph get eaten by the snake :snake:
-![@mishmanners snake gif](https://github.com/yhawamdeh/MishManners/blob/output/github-contribution-grid-snake.svg)
 
 
 
