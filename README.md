@@ -21,5 +21,5 @@
 ## My Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yhawamdeh&show_icons=true&theme=tokyonight)
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhawamdeh&langs_count=8&card_width=1000&theme=tokyonight)](https://github.com/yhawamdeh)
-[![GitHub Streak]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yhawamdeh&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats))](https://git.io/streak-stats)
+[![GitHub Streak]((https://github-readme-streak-stats.herokuapp.com?user=yhawamdeh&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats))]
 [![trophy](https://github-profile-trophy.vercel.app/?username=yhawamdeh&theme=tokyonight&row=2&column=3)](https://github.com/yhawamdeh/github-profile-trophy)
